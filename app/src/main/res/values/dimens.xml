@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_margin">15dp</dimen>
+    <dimen name="name_button_height">20dp</dimen>
+    <dimen name="name_button_radius">10dp</dimen>
+</resources>

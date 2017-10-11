@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/almaccrory/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/almaccrory/Desktop/Assassin/SpoonAssassin/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_1b4e1614759bcb7e01954f459889e6b297970290.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/almaccrory/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/Users/almaccrory/Desktop/Assassin/SpoonAssassin/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-beta4_84a6a8a4aba0b1c6ba1ea93d75d13a282d727012.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/almaccrory/Desktop/Assassin/SpoonAssassin/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/almaccrory/Desktop/Assassin/SpoonAssassin/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_57a70dd42f06ae11bfa00ca6951507264114600f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/almaccrory/.android/build-cache/a461ebcfe91609e8fe123dbc5c0c08d4cc55b17f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/Users/almaccrory/Desktop/Assassin/SpoonAssassin/app/build/intermediates/pre-dexed/debug/classes_eaeadc8d30fd954b45a3357c2dcdb5b91221cde4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/almaccrory/.android/build-cache/0bdaf1cde15227f4b1ee2fb7d6148a26995c2b1c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/almaccrory/Desktop/Assassin/SpoonAssassin/app/build/intermediates/pre-dexed/debug/classes_c52bc1c1b0c6b337cb82618ec94f9bfdfa11acf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/almaccrory/.android/build-cache/d4b953cb55e475bd714120fe6a7cebf57d5d01cc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/almaccrory/Desktop/Assassin/SpoonAssassin/app/build/intermediates/pre-dexed/debug/classes_ea529d0dfa298cff2c5a0a2c4260b6c6b284b3e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/almaccrory/.android/build-cache/f8b56e3b3a1ccb44e01cf5aecd3636f9efed2d9c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/almaccrory/Desktop/Assassin/SpoonAssassin/app/build/intermediates/pre-dexed/debug/classes_7fdf8a86a712080c10df211468bb7c6aa587cb55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/almaccrory/.android/build-cache/3f49cc679ba721c7facc368cebfd4f294a045c62/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/almaccrory/Desktop/Assassin/SpoonAssassin/app/build/intermediates/pre-dexed/debug/classes_62f6710cc78adee245d76eb0a9dffe8d9a28926e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/almaccrory/.android/build-cache/47cffde151a85b77d7fb726f586faac7001996ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/almaccrory/Desktop/Assassin/SpoonAssassin/app/build/intermediates/pre-dexed/debug/classes_c05e9dbadfe409f096d297cd38d3bb4d49e9e3f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/almaccrory/.android/build-cache/55121d7921c81a393d2edeb2eaf18378946e60e5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/almaccrory/Desktop/Assassin/SpoonAssassin/app/build/intermediates/pre-dexed/debug/classes_ccee403056a575ae409272cef1cf9e1fe8eb8fa8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/almaccrory/.android/build-cache/c9881637f48f4b29a87f5fec2ea5caa2da1d9633/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/almaccrory/Desktop/Assassin/SpoonAssassin/app/build/intermediates/pre-dexed/debug/classes_b118de5d8ae8548b3855351fb0526ff914d35325.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/almaccrory/.android/build-cache/c19769a214cfafb440a3c83e1b381a6feb9f5733/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/almaccrory/Desktop/Assassin/SpoonAssassin/app/build/intermediates/pre-dexed/debug/classes_4fa3615123ae8fad84f79d486efd0bff8b671fd3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/almaccrory/Desktop/Assassin/SpoonAssassin/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4cdc853e5743e69225a3b0c9dc0f2e49109ce6e">
+        <dex dex="/Users/almaccrory/Desktop/Assassin/SpoonAssassin/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f62592537ee7d872261ac4a4f3200b737c94c3b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/almaccrory/.android/build-cache/0a1236bc7ab969e1c556784a9239a0f1e4c8fcde/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/almaccrory/Desktop/Assassin/SpoonAssassin/app/build/intermediates/pre-dexed/debug/classes_d134a845f01c3b81274c175684bc94dd93019e16.jar" />
+    </item>
+
+</items>
